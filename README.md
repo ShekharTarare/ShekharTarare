@@ -64,3 +64,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Optimizing Performance in .NET Applications: Best Practices and Techniques](https://medium.com/@shekhartarare/optimizing-performance-in-net-applications-best-practices-and-techniques-513fd944b8d?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
