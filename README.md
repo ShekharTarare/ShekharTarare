@@ -58,5 +58,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Setting up IIS in Windows](https://medium.com/@shekhartarare/a-step-by-step-guide-to-setting-up-iis-in-windows-645e33c6bcad?source=rss-1ce282e5986c------2)
+- [Strengthening Security with Two-Factor Authentication using Google Authenticator in ASP.NET MVC](https://medium.com/@shekhartarare/strengthening-security-with-two-factor-authentication-using-google-authenticator-in-asp-net-mvc-fc8bf9a7a866?source=rss-1ce282e5986c------2)
+- [Unleashing the Power of Forms Authentication: Step-by-Step Guide to Securely Implementing it in .NET](https://medium.com/@shekhartarare/unleashing-the-power-of-forms-authentication-step-by-step-guide-to-securely-implementing-it-in-net-57122d9d078d?source=rss-1ce282e5986c------2)
+- [Optimizing Performance in .NET Applications: Best Practices and Techniques](https://medium.com/@shekhartarare/optimizing-performance-in-net-applications-best-practices-and-techniques-513fd944b8d?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 
