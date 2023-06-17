@@ -15,11 +15,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
 
-- 🔭 I’m working as a Dotnet Developer.
-- 🌱 I also write technical blogs.
-- ⚡ In my free time I read tech articles.
+- 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
+- ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shekhar-tarare-04)
 
 ---
@@ -55,7 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [A Step-by-Step Guide to Setting up IIS in Windows](https://medium.com/@shekhartarare/a-step-by-step-guide-to-setting-up-iis-in-windows-645e33c6bcad?source=rss-1ce282e5986c------2)
@@ -63,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Unleashing the Power of Forms Authentication: Step-by-Step Guide to Securely Implementing it in .NET](https://medium.com/@shekhartarare/unleashing-the-power-of-forms-authentication-step-by-step-guide-to-securely-implementing-it-in-net-57122d9d078d?source=rss-1ce282e5986c------2)
 - [Optimizing Performance in .NET Applications: Best Practices and Techniques](https://medium.com/@shekhartarare/optimizing-performance-in-net-applications-best-practices-and-techniques-513fd944b8d?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
-
+### For more articles, visit my [blog](https://shekhartarare.com).
 ---
 
 ### 😉: Programming Joke :
