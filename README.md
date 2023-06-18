@@ -66,6 +66,6 @@
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
 
-### 😉: Programming Joke :
+### 😉 Programming Joke :
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
