@@ -58,10 +58,10 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Classic ASP File Uploader](https://medium.com/@shekhartarare/building-a-classic-asp-file-uploader-783d0d48aad7?source=rss-1ce282e5986c------2)
 - [Elevate Your GitHub Profile with a Stunning README](https://medium.com/@shekhartarare/elevate-your-github-profile-with-a-stunning-readme-3a2d1f95dc7e?source=rss-1ce282e5986c------2)
 - [A Step-by-Step Guide to Setting up IIS in Windows](https://medium.com/@shekhartarare/a-step-by-step-guide-to-setting-up-iis-in-windows-645e33c6bcad?source=rss-1ce282e5986c------2)
 - [Strengthening Security with Two-Factor Authentication using Google Authenticator in ASP.NET MVC](https://medium.com/@shekhartarare/strengthening-security-with-two-factor-authentication-using-google-authenticator-in-asp-net-mvc-fc8bf9a7a866?source=rss-1ce282e5986c------2)
-- [Unleashing the Power of Forms Authentication: Step-by-Step Guide to Securely Implementing it in .NET](https://medium.com/@shekhartarare/unleashing-the-power-of-forms-authentication-step-by-step-guide-to-securely-implementing-it-in-net-57122d9d078d?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
