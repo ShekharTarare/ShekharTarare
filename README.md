@@ -58,10 +58,10 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Setting Up Azure Database and SQL Server in the Azure Portal](https://medium.com/@shekhartarare/a-step-by-step-guide-to-setting-up-azure-database-and-sql-server-in-the-azure-portal-e4da06bb76f9?source=rss-1ce282e5986c------2)
 - [Simplifying Your HTML Table with an Autocomplete Feature](https://medium.com/@shekhartarare/simplifying-your-html-table-with-an-autocomplete-feature-d43929618c7d?source=rss-1ce282e5986c------2)
 - [Building a Classic ASP File Uploader](https://medium.com/@shekhartarare/building-a-classic-asp-file-uploader-783d0d48aad7?source=rss-1ce282e5986c------2)
 - [Elevate Your GitHub Profile with a Stunning README](https://medium.com/@shekhartarare/elevate-your-github-profile-with-a-stunning-readme-3a2d1f95dc7e?source=rss-1ce282e5986c------2)
-- [A Step-by-Step Guide to Setting up IIS in Windows](https://medium.com/@shekhartarare/a-step-by-step-guide-to-setting-up-iis-in-windows-645e33c6bcad?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
