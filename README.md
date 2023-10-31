@@ -58,10 +58,10 @@
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Passing Parameters to Partial Views in ASP.NET MVC](https://medium.com/@shekhartarare/passing-parameters-to-partial-views-in-asp-net-mvc-ac2e77f18564?source=rss-1ce282e5986c------2)
 - [Deploying Code from GitLab to IIS via Azure DevOps: A Step-by-Step Guide](https://medium.com/@shekhartarare/deploying-code-from-gitlab-to-iis-via-azure-devops-a-step-by-step-guide-d2782ed794ca?source=rss-1ce282e5986c------2)
 - [Fixing “Login failed for user ‘sa’. &lpar;Microsoft SQL Server, Error 18456&rpar;”](https://medium.com/@shekhartarare/fixing-login-failed-for-user-sa-microsoft-sql-server-error-18456-70d90f51e33e?source=rss-1ce282e5986c------2)
 - [How to Trigger Azure DevOps Pipelines from another Pipeline](https://medium.com/@shekhartarare/how-to-trigger-azure-devops-pipelines-from-another-pipeline-ffe8f600e3f6?source=rss-1ce282e5986c------2)
-- [Azure Pipeline: Executing SQL Script via Service Principal with Minimal Permissions](https://medium.com/@shekhartarare/azure-pipeline-executing-sql-script-via-service-principal-with-minimal-permissions-a8c452e11823?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
