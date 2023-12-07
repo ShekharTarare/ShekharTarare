@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
  Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
 
@@ -55,7 +55,7 @@
 
 ---
 
-### :writing_hand: Latest Blog Posts :
+### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Passing Parameters to Partial Views in ASP.NET MVC](https://medium.com/@shekhartarare/passing-parameters-to-partial-views-in-asp-net-mvc-ac2e77f18564?source=rss-1ce282e5986c------2)
