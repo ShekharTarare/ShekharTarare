@@ -58,10 +58,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Node Property Data Retrieval in Umbraco: A Quick Guide](https://medium.com/@shekhartarare/streamlining-node-property-data-retrieval-in-umbraco-a-quick-guide-e9505c577f2d?source=rss-1ce282e5986c------2)
 - [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://medium.com/@shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-asp-net-mvc-71428cba8432?source=rss-1ce282e5986c------2)
 - [Understanding the Difference Between ref and out Keywords in C#](https://medium.com/@shekhartarare/understanding-the-difference-between-ref-and-out-keywords-in-c-a10788d20cdc?source=rss-1ce282e5986c------2)
 - [Passing Parameters to Partial Views in ASP.NET MVC](https://medium.com/@shekhartarare/passing-parameters-to-partial-views-in-asp-net-mvc-ac2e77f18564?source=rss-1ce282e5986c------2)
-- [Deploying Code from GitLab to IIS via Azure DevOps: A Step-by-Step Guide](https://medium.com/@shekhartarare/deploying-code-from-gitlab-to-iis-via-azure-devops-a-step-by-step-guide-d2782ed794ca?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
