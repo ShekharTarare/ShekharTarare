@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://shekhartarare.com/blog/feed"
+          feed_list: "https://medium.com/feed/@shekhartarare"
