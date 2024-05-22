@@ -58,10 +58,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Troubleshooting “The File Does Not Have an App Associated with It” Error in Visual Studio](https://medium.com/@shekhartarare/troubleshooting-the-file-does-not-have-an-app-associated-with-it-error-in-visual-studio-4e15eae871c0?source=rss-1ce282e5986c------2)
 - [How to Create a Simple Tab Navigation UI with HTML, CSS, and JavaScript](https://medium.com/@shekhartarare/how-to-create-a-simple-tab-navigation-ui-with-html-css-and-javascript-f09cec5074f4?source=rss-1ce282e5986c------2)
 - [Configuring Security Settings in Umbraco: A Comprehensive Guide](https://medium.com/@shekhartarare/configuring-security-settings-in-umbraco-a-comprehensive-guide-8721e8acf00e?source=rss-1ce282e5986c------2)
 - [Streamlining Node Property Data Retrieval in Umbraco: A Quick Guide](https://medium.com/@shekhartarare/streamlining-node-property-data-retrieval-in-umbraco-a-quick-guide-e9505c577f2d?source=rss-1ce282e5986c------2)
-- [How to Print to Browser Console from Razor View Page in ASP.NET MVC](https://medium.com/@shekhartarare/how-to-print-to-browser-console-from-razor-view-page-in-asp-net-mvc-71428cba8432?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
