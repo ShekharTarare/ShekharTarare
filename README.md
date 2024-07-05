@@ -58,10 +58,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving the “Length of LOB Data &lpar;78862&rpar; to be Replicated Exceeds Configured Maximum 65536” Error](https://medium.com/@shekhartarare/resolving-the-length-of-lob-data-78862-to-be-replicated-exceeds-configured-maximum-65536-error-fc59f04f65e3?source=rss-1ce282e5986c------2)
-- [Troubleshooting “The File Does Not Have an App Associated with It” Error in Visual Studio](https://medium.com/@shekhartarare/troubleshooting-the-file-does-not-have-an-app-associated-with-it-error-in-visual-studio-4e15eae871c0?source=rss-1ce282e5986c------2)
-- [How to Create a Simple Tab Navigation UI with HTML, CSS, and JavaScript](https://medium.com/@shekhartarare/how-to-create-a-simple-tab-navigation-ui-with-html-css-and-javascript-f09cec5074f4?source=rss-1ce282e5986c------2)
-- [Configuring Security Settings in Umbraco: A Comprehensive Guide](https://medium.com/@shekhartarare/configuring-security-settings-in-umbraco-a-comprehensive-guide-8721e8acf00e?source=rss-1ce282e5986c------2)
+- [Creating a Simple ASP.NET Core Web API for Testing Purposes](https://medium.com/@shekhartarare/creating-a-simple-asp-net-core-web-api-for-testing-purposes-048d3d0d0365?source=rss-1ce282e5986c------2)
+- [Create an API in Umbraco in 5 Minutes: A Quick Guide for Developers](https://medium.com/@shekhartarare/create-an-api-in-umbraco-in-5-minutes-a-quick-guide-for-developers-e630b8d6e385?source=rss-1ce282e5986c------2)
+- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://medium.com/@shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-370000c99c0b?source=rss-1ce282e5986c------2)
+- [Step-by-Step Guide to Reading CSV Files in ASP.NET Core](https://medium.com/@shekhartarare/step-by-step-guide-to-reading-csv-files-in-asp-net-core-08ee24729244?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
