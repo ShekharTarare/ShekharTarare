@@ -58,10 +58,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Simple ASP.NET Core Web API for Testing Purposes](https://medium.com/@shekhartarare/creating-a-simple-asp-net-core-web-api-for-testing-purposes-048d3d0d0365?source=rss-1ce282e5986c------2)
-- [Create an API in Umbraco in 5 Minutes: A Quick Guide for Developers](https://medium.com/@shekhartarare/create-an-api-in-umbraco-in-5-minutes-a-quick-guide-for-developers-e630b8d6e385?source=rss-1ce282e5986c------2)
-- [How to Create a New Umbraco Project: A Step-by-Step Guide](https://medium.com/@shekhartarare/how-to-create-a-new-umbraco-project-a-step-by-step-guide-370000c99c0b?source=rss-1ce282e5986c------2)
-- [Step-by-Step Guide to Reading CSV Files in ASP.NET Core](https://medium.com/@shekhartarare/step-by-step-guide-to-reading-csv-files-in-asp-net-core-08ee24729244?source=rss-1ce282e5986c------2)
+- [Integrating Stripe Checkout in an ASP.NET Core 8 Application: A Step-by-Step Guide](https://medium.com/@shekhartarare/integrating-stripe-checkout-in-an-asp-net-core-8-application-a-step-by-step-guide-a51b05bb4f98?source=rss-1ce282e5986c------2)
+- [Creating an Umbraco Backoffice Accessor for Conditional Page Rendering](https://medium.com/@shekhartarare/creating-an-umbraco-backoffice-accessor-for-conditional-page-rendering-365206c7cbaa?source=rss-1ce282e5986c------2)
+- [Securing Your Hangfire Dashboard in ASP.NET Core 8: Adding an Authorization Filter](https://medium.com/@shekhartarare/securing-your-hangfire-dashboard-in-asp-net-core-8-adding-an-authorization-filter-c77c10f546be?source=rss-1ce282e5986c------2)
+- [Step-by-Step Guide to Scheduling API Calls with Hangfire in ASP.NET Core](https://medium.com/@shekhartarare/step-by-step-guide-to-scheduling-api-calls-with-hangfire-in-asp-net-core-8db442b0dea1?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
