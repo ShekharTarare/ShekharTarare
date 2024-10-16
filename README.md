@@ -58,10 +58,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples](https://medium.com/@shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-06df48a7bc61?source=rss-1ce282e5986c------2)
+- [Understanding the Spread Operator in JavaScript: A Simple Guide for Beginners](https://medium.com/@shekhartarare/understanding-the-spread-operator-in-javascript-a-simple-guide-for-beginners-3680c56b4de5?source=rss-1ce282e5986c------2)
 - [Integrating Stripe Checkout in an ASP.NET Core 8 Application: A Step-by-Step Guide](https://medium.com/@shekhartarare/integrating-stripe-checkout-in-an-asp-net-core-8-application-a-step-by-step-guide-a51b05bb4f98?source=rss-1ce282e5986c------2)
 - [Creating an Umbraco Backoffice Accessor for Conditional Page Rendering](https://medium.com/@shekhartarare/creating-an-umbraco-backoffice-accessor-for-conditional-page-rendering-365206c7cbaa?source=rss-1ce282e5986c------2)
-- [Securing Your Hangfire Dashboard in ASP.NET Core 8: Adding an Authorization Filter](https://medium.com/@shekhartarare/securing-your-hangfire-dashboard-in-asp-net-core-8-adding-an-authorization-filter-c77c10f546be?source=rss-1ce282e5986c------2)
-- [Step-by-Step Guide to Scheduling API Calls with Hangfire in ASP.NET Core](https://medium.com/@shekhartarare/step-by-step-guide-to-scheduling-api-calls-with-hangfire-in-asp-net-core-8db442b0dea1?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
 ### For more articles, visit my [blog](https://shekhartarare.com).
 ---
