@@ -1,7 +1,7 @@
 [![Latest blog post workflow](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml)
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center"> 
-<a href="https://in.linkedin.com/in/shekhar-tarare-04"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://in.linkedin.com/in/shekhar-tarare-st04"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/tarareshekhar"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
 </p>
 <!--<p align="center">
@@ -20,7 +20,7 @@
 - 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shekhar-tarare-04)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shekhar-tarare-st04)
 
 ---
 
