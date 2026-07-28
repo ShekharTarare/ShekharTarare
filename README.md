@@ -1,57 +1,59 @@
 [![Latest blog post workflow](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/ShekharTarare/ShekharTarare/actions/workflows/blog-post-workflow.yml)
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center"> 
-<a href="https://in.linkedin.com/in/shekhar-tarare-st04"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/tarareshekhar"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
-</p>
-<!--<p align="center">
-<a href="https://www.buymeacoffee.com/shekhartarS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>--> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ShekharTarare&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+# Shekhar Tarare
 
-### 👨‍💻 &nbsp;About Me :
+**Umbraco Developer | .NET Specialist | Open-Source Package Author**
 
- Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
-
-- 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
-- ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/shekhar-tarare-st04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shekhar-tarare-st04)
+[![Blog](https://img.shields.io/badge/Blog-shekhartarare.dev-2962FF?style=flat&logo=hashnode&logoColor=white)](https://shekhartarare.dev)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@shekhartarare)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShekharTarare&style=flat&color=blue)](https://github.com/ShekharTarare)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## About Me
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+I'm an Umbraco developer with 6+ years in .NET, focused on building, migrating, and maintaining CMS solutions for organisations in regulated and technical sectors. I contribute to the Umbraco open-source ecosystem through packages, core PRs, and community participation.
 
-
-
-
-</p>
+- 🔧 Currently working with **Umbraco**, delivering migrations and custom builds
+- 📦 Author of [uMediaOps](https://github.com/ShekharTarare/uMediaOps) and [uPreviewShare](https://github.com/ShekharTarare/uPreviewShare)
+- ✍️ Writing about Umbraco & .NET at [shekhartarare.dev](https://shekhartarare.dev) and [Medium](https://medium.com/@shekhartarare)
+- 🤝 Active on [Umbraco Community Forums](https://our.umbraco.com) and contributor to the Umbraco CMS core
 
 ---
 
-### 🔥 &nbsp; My Stats :
+## Open-Source Packages
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShekharTarare&theme=dark)](https://git.io/streak-stats)
+| Package | Description | Links |
+|---------|-------------|-------|
+| **uMediaOps** | Media management suite for Umbraco — find duplicates, detect unused media, create backups | [GitHub](https://github.com/ShekharTarare/uMediaOps) · [NuGet](https://www.nuget.org/packages/uMediaOps) |
+| **uPreviewShare** | Generate secured, time-limited preview links for unpublished Umbraco content | [GitHub](https://github.com/ShekharTarare/uPreviewShare) · [NuGet](https://www.nuget.org/packages/uPreviewShare) |
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekharTarare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack
+
+**CMS & Platform:**  
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_6/7/8/9/10-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+**Backend:**  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-4B0082?style=flat)
+
+**Front-End:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**DevOps & Cloud:**  
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Umbraco Cloud](https://img.shields.io/badge/Umbraco_Cloud-3544B1?style=flat&logo=umbraco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -63,9 +65,17 @@
 - [Integrating Stripe Checkout in an ASP.NET Core 8 Application: A Step-by-Step Guide](https://medium.com/@shekhartarare/integrating-stripe-checkout-in-an-asp-net-core-8-application-a-step-by-step-guide-a51b05bb4f98?source=rss-1ce282e5986c------2)
 - [Creating an Umbraco Backoffice Accessor for Conditional Page Rendering](https://medium.com/@shekhartarare/creating-an-umbraco-backoffice-accessor-for-conditional-page-rendering-365206c7cbaa?source=rss-1ce282e5986c------2)
 <!-- BLOG-POST-LIST:END -->
-### For more articles, visit my [blog](https://shekhartarare.com).
+
+➡️ More articles on [shekhartarare.dev](https://shekhartarare.dev) and [shekhartarare.com](https://shekhartarare.com)
+
 ---
 
-### 😉 Programming Joke :
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## Certifications
+
+- 🏅 Umbraco Cloud Certified (2026)
+- 🏅 Umbraco Certified Expert (2023)
+- ☁️ AZ-900: Microsoft Azure Fundamentals
+- ☁️ DP-900: Azure Data Fundamentals
+
+---
