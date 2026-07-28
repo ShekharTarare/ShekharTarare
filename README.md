@@ -16,7 +16,7 @@
 
 I'm an Umbraco developer with 6+ years in .NET, focused on building, migrating, and maintaining CMS solutions for organisations in regulated and technical sectors. I contribute to the Umbraco open-source ecosystem through packages, core PRs, and community participation.
 
-- 🔧 Currently working with **Umbraco**, delivering migrations and custom builds
+- 🔧 Currently focused on **Umbraco** projects — migrations, custom backoffice builds, and integrations
 - 📦 Author of [uMediaOps](https://github.com/ShekharTarare/uMediaOps) and [uPreviewShare](https://github.com/ShekharTarare/uPreviewShare)
 - ✍️ Writing about Umbraco & .NET at [shekhartarare.dev](https://shekhartarare.dev) and [Medium](https://medium.com/@shekhartarare)
 - 🤝 Active on [Umbraco Community Forums](https://our.umbraco.com) and contributor to the Umbraco CMS core
